@@ -1,6 +1,12 @@
 ## 📑 Editor de Texto:
 Software de edição de texto em Python utilizando o framework Tkinter.
 
+## 💻 Como rodar:
+```
+pip install tkinter
+python main.py
+```
+
 ## ⭐ Update:
 - Botão de tema adicionado para alternar entre modos claro e escuro;
 - Barra de rolagem para melhor visualização do texto;
