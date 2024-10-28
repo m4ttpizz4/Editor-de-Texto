@@ -1,5 +1,9 @@
-## Editor de Texto
+## 📑 Editor de Texto:
 Software de edição de texto em Python utilizando o framework Tkinter.
+
+## ⭐ Update:
+- Botão de tema adicionado para alternar entre modos claro e escuro;
+- Barra de rolagem para melhor visualização do texto;
 
 > [!NOTE]
 > Esse projeto foi desenvolvido utilizando: \
